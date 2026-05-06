@@ -18,6 +18,8 @@ namespace WpfApp1
         {
             // links the c# code to the xaml design
             InitializeComponent();
+
+            // testing
         }
 
         // runs when the user clicks inside the textbox
